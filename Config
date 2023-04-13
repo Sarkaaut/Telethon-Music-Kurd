@@ -1,8 +1,8 @@
 import os
 
 class Config(object):
-    API_ID = int(6435225) #dont change
-    API_HASH = "4e984ea35f854762dcde906dce426c2d" #dont change 
+    API_ID = int(20742090) #dont change
+    API_HASH = "4c13d34781a820aa5c4d2e6de8df7122" #dont change 
     BOT_TOKEN = "" #fill your telegram bot token
     STRING_SESSION = "" #an Telethon Session 
     MANAGEMENT_MODE = None #Dont change
