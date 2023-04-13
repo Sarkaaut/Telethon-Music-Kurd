@@ -12,27 +12,27 @@
         "SUPPORT": {
             "description": "Fill there your group username else leave",
             "required": false,
-            "value": "TheSupportChat"
+            "value": "group_shetakan"
         },
         "CHANNEL": {
             "description": "Fill there your Channel username else leave",
             "required": false,
-            "value": "TheUpdatesChannel"
+            "value": "BotMusicKurdi"
         },
         "BOT_USERNAME": {
             "description": "Fill there your bot username",
             "required": false,
-            "value": "Zaid2_Robot"
+            "value": "TestKurdishbot"
         },
         "ASSISTANT_ID": {
             "description": "Go To @Zaid2_Robot Pm & Type /id",
             "required": false,
-            "value": "1234567890"
+            "value": "5789819429"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
             "required": true,
-            "value": ""
+            "value": "6107711760:AAEm_COcVEgo5az-OLA7_zOHVUlQmjtk76I"
         }
 
     }
